@@ -23,4 +23,14 @@ so I apply data arugumentation using ImageDataGenerator
 For every image, the following preprocessing steps were applied:
 
 Resize the image to have a shape of (224, 224, 3)=(image_width, image_height, number of channels): because images in the dataset come in different sizes. So, all images should have the same shape to feed it as an input to the neural network.
+
 Apply normalization: to scale pixel values to the range 0-1.
+
+
+### Data Split:
+
+The data was split in the following way:
+
+* 70% of the data for training.
+* 15% of the data for validation.
+* 15% of the data for testing.
