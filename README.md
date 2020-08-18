@@ -32,9 +32,9 @@ Apply normalization: to scale pixel values to the range 0-1.
 
 The data was split in the following way:
 
-* 70% of the data for training.
-* 15% of the data for validation.
-* 15% of the data for testing.
+* 60% of the data for training.
+* 20% of the data for validation.
+* 20% of the data for testing.
 
 
 ### Neural Network Architecture
