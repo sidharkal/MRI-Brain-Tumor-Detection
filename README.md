@@ -34,3 +34,16 @@ The data was split in the following way:
 * 70% of the data for training.
 * 15% of the data for validation.
 * 15% of the data for testing.
+
+
+### Neural Network Architecture
+
+![Image](https://www.google.com/search?q=Neural+Network+Architecture+in+Mri+image&tbm=isch&ved=2ahUKEwjm2ISx3aTrAhUSkUsFHc_WA5oQ2-cCegQIABAA&oq=Neural+Network+Architecture+in+Mri+image&gs_lcp=CgNpbWcQAzoECAAQGFDTCFilKmDJK2gAcAB4AIABugGIAZgMkgEEMC4xMJgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=RcY7X6aiG5KirtoPz62P0Ak&bih=722&biw=1536#imgrc=cek2XEFpDF0LgM)
+
+
+
+
+
+
+
+
